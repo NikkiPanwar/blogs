@@ -5,8 +5,7 @@
 
 <script>
 
-function addparty(op,form)
-    {
+function addparty(op,form) {
         var p=form.p.value;
 
         var xmlhttp=new XMLHttpRequest();
